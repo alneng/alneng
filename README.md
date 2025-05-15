@@ -8,26 +8,21 @@ Electric Racing as a tech lead and for class projects.
 
 ## 📫 Links
 
-[alaneng.com][0] | [eng.al@northeastern.edu](mailto:eng.al@northeastern.edu) | [LinkedIn][1] | [Secondary GitHub][2] | [Pictures][3] | [Projects][4]
+[alaneng.com][0] | [eng.al@northeastern.edu](mailto:eng.al@northeastern.edu) | [LinkedIn][1] | [Secondary GitHub][2] | [Photography][3] | [Projects][4]
 
 ## 🔭 Project Spotlight
 
-### Spotify Playlist Visualizer
-
-Spotify Playlist Visualizer transforms your Spotify playlists into a dynamic 3D experience, visualizing each song as a vector in space. 
-By analyzing the audio features provided by Spotify, we position each song relative to others, creating a unique visual representation of your music taste.
+### Photography Website
 
 **Tech Stack**
-- React, Vite, Tailwind, Three.js
-- Express, Prisma, PostgreSQL
-- Flask, SciKit-Learn, NumPy
-- Docker
+- React
+- Vite
+- Tailwind
+- GSAP
 
-Try it out yourself: [https://spv.alaneng.com/][5]
+Visit the website: [https://photography.alaneng.com/][3]
 
-Contribute: [https://github.com/alneng/spotify-playlist-visualizer/][6]
-
-![image](https://github.com/user-attachments/assets/29edd794-c233-4019-bec6-b21105e4a979)
+![image](https://github.com/user-attachments/assets/9656cad6-f920-49d0-9ae0-099f829ef832)
 
 <!--
 **alneng/alneng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -47,7 +42,5 @@ Here are some ideas to get you started:
 [0]: https://alaneng.com/
 [1]: https://www.linkedin.com/in/alan-w-eng/
 [2]: https://github.com/alaneng-neu
-[3]: https://gallery.alaneng.com/
+[3]: https://photography.alaneng.com/
 [4]: https://www.alaneng.com/projects
-[5]: https://spv.alaneng.com/
-[6]: https://github.com/alneng/spotify-playlist-visualizer/
